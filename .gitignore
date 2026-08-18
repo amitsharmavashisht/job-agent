@@ -1,0 +1,4 @@
+.env
+output/*.csv
+__pycache__/
+*.pyc
