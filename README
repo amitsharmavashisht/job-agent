@@ -1,0 +1,26 @@
+# 🤖 Personal Job Agent
+
+An AI-powered job hunting automation tool that finds, filters, and alerts you about relevant job opportunities.
+
+## Features
+- ✅ Multi-source job scraping (Google Jobs, Remotive, Arbeitnow)
+- ✅ Resume skill matching
+- ✅ Email + Telegram alerts
+- ✅ Automated via GitHub Actions (3x/week)
+- ✅ $0 cost (free tiers)
+
+## Tech Stack
+- Python
+- GitHub Actions
+- Gmail API
+- Telegram Bot API
+- SerpAPI
+
+## Setup
+1. Clone this repo
+2. Create `.env` with your secrets
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run: `python main.py`
+
+## License
+MIT License - Feel free to use and modify!
